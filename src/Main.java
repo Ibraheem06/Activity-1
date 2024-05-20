@@ -10,6 +10,8 @@ public class Main {
         Power_ranger obj1 = new Power_ranger("Red","Red helmet","AK47");
         Power_ranger obj2 = new Power_ranger("Blue","Blue helmet","sniper");
 
+        //comment
+        //hi ibu
 
         obj1.information();
         obj2.Ranger();
